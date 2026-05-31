@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Dados gerados (não versionar dados, só o código que os gera)
+data_generator/output/
+*.parquet
+*.csv
+!docs/**/*.csv
+
+# dbt
+dbt_project/target/
+dbt_project/dbt_packages/
+dbt_project/logs/
+.user.yml
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Segredos (nunca commitar)
+.env
+*.secret
+profiles.yml
