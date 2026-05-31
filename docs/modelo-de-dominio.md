@@ -1,10 +1,11 @@
 # Modelo de domínio — conciliação de adquirência (sintético)
 
-> **Tarefa da Semana 1 (sua, Wellington).** Este é o exercício de *design do zero*.
-> Preencha as 3 seções abaixo com SUAS decisões. Não precisa de código ainda — só o desenho.
-> O mentor revisa, questiona os trade-offs e fechamos o diagrama juntos.
+> **Exercício de design do zero.** Preencha as 3 seções abaixo com suas decisões, baseadas em
+> **como adquirência funciona no mercado em geral (conhecimento público)**. Não precisa de
+> código ainda — só o desenho.
 >
-> ⚠️ Versão **genérica/sintética** — nada da Zig (nomes, regras específicas ou dados reais).
+> ⚠️ **100% genérico e sintético.** Não usar nada específico de sistemas internos de empregadores
+> (modelos, regras de negócio, listas ou nomes). Apenas conceitos públicos do setor de pagamentos.
 
 ## 1. Entidades
 Liste as entidades essenciais para uma conciliação de adquirência e, em uma linha, o que cada
