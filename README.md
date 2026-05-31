@@ -20,7 +20,8 @@ docs/             → modelo de domínio, decisões e diagramas
 ```
 
 ## Stack
-Python · dbt · SQL · (orquestração e camada de IA virão em projetos seguintes)
+**Python** · **dbt (dbt-core)** · **DuckDB** (banco analítico local, gratuito) · **SQL** · Git
+_(orquestração e camada de IA virão em projetos seguintes)_
 
 ## Como rodar
 _(a documentar conforme o projeto evolui)_
